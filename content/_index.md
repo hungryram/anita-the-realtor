@@ -20,7 +20,7 @@ slideshow:
     link_label: Read More
     link: https://www.hungryram.com
     image: >-
-      https://res.cloudinary.com/hungryram19/image/upload/v1630458883/templates/realestate2/shutterstock_12168997453_dgp9fa.jpg
+      https://res.cloudinary.com/hungryram19/image/upload/v1648596461/anita-iswanto/dark-kitchen-2.jpg
     body:
     enable_white_text: false
 home_sections:
