@@ -1,25 +1,28 @@
-company_name:
+company_name: 'Homequest: Anita the Realtor'
 social_media:
-  instagram:
+  instagram: https://www.instagram.com/anita_the_realtor
   twitter:
-  facebook:
+  facebook: https://www.facebook.com/ahhneetaaTheRealtor
   pinterest:
   yelp:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/anita-e-iswanto-4aa094206/
   tiktok:
 contact_information:
-  name:
-  cell:
+  name: Anita Effendi Iswanto
+  cell: (714) 262-3501
   phone:
-  email:
-  license:
+  email: anitaeiswanto@gmail.com
+  license: 'DRE #01861935'
   address:
   city:
   state:
   zip_code:
   google_page_link:
 search_engine_optimization:
-  title_tag:
-  meta_description:
+  title_tag: 'Homequest: Anita Effendi Iswanto | Real Estate Agent'
+  meta_description: >-
+    Anita Effendi Iswanto is a real estate agent in southern California.
+    Providing home-buyers and sellers with professional, responsive attentive
+    real estate services.
   twitter_card:
     twitter_username:
