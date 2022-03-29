@@ -15,7 +15,7 @@ icons:
   oneeightzero:
   seventwo:
 header:
-  top_header_color: '#423f39'
+  top_header_color: '#161616'
   header_background_color: '#ffffff'
   enable_white_text: true
   enable_white_text_top: true
