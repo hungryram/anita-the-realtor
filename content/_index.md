@@ -16,9 +16,9 @@ video_background:
   enable_black_text: false
 slideshow:
   - heading: Anita Effendi Iswanto
-    subtitle:
+    subtitle: Your Neighborhood Realtor
     link_label: Read More
-    link: https://www.hungryram.com
+    link: /
     image: >-
       https://res.cloudinary.com/hungryram19/image/upload/v1648596461/anita-iswanto/dark-kitchen-2.jpg
     body:
