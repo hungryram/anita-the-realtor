@@ -43,12 +43,11 @@ home_sections:
     template: featured-boxes
     heading: Helping you find your next home
     body: >-
-      Being licensed since April of 2009 and a Certified Probate Real Estate
-      Specialist, I can provide you a wealth of knowledge in the area. My
-      extensive background in real estate allows me to understand my clients’
-      needs and far exceed their expectations. I work with plenty of first time
-      home buyers and investors who describe me as an experienced and
-      trustworthy professional.
+      Being licensed since April of 2009, I can provide you a wealth of
+      knowledge in the area. My extensive background in real estate allows me to
+      understand my clients’ needs and far exceed their expectations. I work
+      with plenty of first time home buyers and investors who describe me as an
+      experienced and trustworthy professional.
     blocks:
       - heading: Advance Search
         image: >-
