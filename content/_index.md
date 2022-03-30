@@ -34,7 +34,7 @@ home_sections:
       home? Need an agent who knows how to effectively market your home so it
       sells? Give me a call\! I'm eager to help and would love to talk to you.
     button: Search Homes
-    button_link: /
+    button_link: https://www.idxhome.com/homesearch/134221
     image: >-
       https://res.cloudinary.com/hungryram19/image/upload/v1648584624/anita-iswanto/anita.jpg
     image_alt_tag: Anita Iswanto
@@ -53,14 +53,14 @@ home_sections:
       - heading: Advance Search
         image: >-
           https://res.cloudinary.com/hungryram19/image/upload/v1648586881/anita-iswanto/shutterstock_1247862721.jpg
-        link:
+        link: https://www.idxhome.com/homesearch/134221
       - heading: Home Value Request
         image: >-
           https://res.cloudinary.com/hungryram19/image/upload/v1648586927/anita-iswanto/one-story-house.jpg
-        link:
+        link: /home-valuation
       - heading: Contact Anita
         image: >-
           https://res.cloudinary.com/hungryram19/image/upload/v1648586971/anita-iswanto/livingroom.jpg
-        link:
+        link: /contact
 ---
 
