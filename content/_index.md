@@ -6,7 +6,7 @@ slideshow_settings:
   enable_black_text: false
   enable_idx_search: true
   enable_default_search: false
-  display_button: true
+  display_button: false
 video_background:
   video_link:
   heading: Highly Customizable Real Estate Theme
