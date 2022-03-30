@@ -13,9 +13,9 @@ background_image: >-
 logo: >-
   https://res.cloudinary.com/hungryram19/image/upload/v1648587294/anita-iswanto/homequest.png
 logo_width:
-equal_housing_logo: false
-mls_logo: false
-realtor_logo: false
+equal_housing_logo: true
+mls_logo: true
+realtor_logo: true
 enable_black_text: false
 remove_credit: false
 important_documents:
