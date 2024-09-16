@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legal Policies on </title>
+    <link>http://localhost:1313/legal/</link>
+    <description>Recent content in Legal Policies on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/legal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessibility</title>
+      <link>http://localhost:1313/legal/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legal/accessibility/</guid>
+      <description>&lt;p&gt;We are committed to providing an accessible website. If you have difficulty accessing content, or having difficulty navigating throughout our website, please contact us immediately.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disclaimer</title>
+      <link>http://localhost:1313/legal/disclaimer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legal/disclaimer/</guid>
+      <description>&lt;p&gt;The information on this site is provided for promotional and informational purposes only. The contents and materials of this website are compiled from sources deemed reliable but are subject to errors, changes, and withdrawals without notice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/legal/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legal/privacy-policy/</guid>
+      <description>&lt;h2 id=&#34;personal-identification-information&#34;&gt;Personal Identification Information&lt;/h2&gt;&#xA;&lt;p&gt;Personal information means any information relating to an identifiable individual. Personal information can include sensitive details of an individual such as first name, last name in combination of a form of contact. Sensitive information can be but not limited to:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Terms and Conditions</title>
+      <link>http://localhost:1313/legal/terms-and-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legal/terms-and-conditions/</guid>
+      <description>&lt;h2 id=&#34;access-to-the-website&#34;&gt;Access to the website&lt;/h2&gt;&#xA;&lt;p&gt;The information provided by us on this website is not in any way a recommendation or advice to buy any product or services listed. We recommend seeking professional advice before making any decision.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
