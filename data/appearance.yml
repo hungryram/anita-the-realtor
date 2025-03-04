@@ -20,7 +20,7 @@ header:
   enable_white_text: true
   enable_white_text_top: true
   transparent_background: true
-  call_to_action_link: https://www.idxhome.com/homesearch/134221
+  call_to_action_link: /search-homes
   call_to_action_label: Search
   remove_call_to_action: false
   mobile_menu:

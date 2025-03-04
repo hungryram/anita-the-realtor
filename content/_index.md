@@ -4,7 +4,7 @@ slideshow_settings:
   enable_autoplay: true
   enable_ken_burns_effect: false
   enable_black_text: false
-  enable_idx_search: true
+  enable_idx_search: false
   enable_default_search: false
   display_button: false
 video_background:
@@ -12,7 +12,7 @@ video_background:
   heading: Highly Customizable Real Estate Theme
   body: Optionally integrate with IDX or use built in tools
   button_label: Search Homes
-  button_link: /listings
+  button_link: /search-homes
   enable_black_text: false
 slideshow:
   - heading: Anita Effendi Iswanto
@@ -34,7 +34,7 @@ home_sections:
       home? Need an agent who knows how to effectively market your home so it
       sells? Give me a call\! I'm eager to help and would love to talk to you.
     button: Search Homes
-    button_link: https://www.idxhome.com/homesearch/134221
+    button_link: /search-homes
     image: >-
       https://res.cloudinary.com/hungryram19/image/upload/v1648584624/anita-iswanto/anita.jpg
     image_alt_tag: Anita Iswanto
@@ -52,7 +52,7 @@ home_sections:
       - heading: Advance Search
         image: >-
           https://res.cloudinary.com/hungryram19/image/upload/v1648586881/anita-iswanto/shutterstock_1247862721.jpg
-        link: https://www.idxhome.com/homesearch/134221
+        link: /search-homes
       - heading: Home Value Request
         image: >-
           https://res.cloudinary.com/hungryram19/image/upload/v1648586927/anita-iswanto/one-story-house.jpg

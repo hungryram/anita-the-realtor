@@ -6,7 +6,7 @@ menu:
     link:
     menu:
       - name: Search Homes
-        link: https://www.idxhome.com/homesearch/134221
+        link: /search-homes
         menu:
   - name: Sellers
     link:
